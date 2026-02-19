@@ -12,17 +12,13 @@ TIPv6 (Threat Intelligence Protocol version 6) is a state-of-the-art modular thr
 
 ## Installation
 To install TIPv6 Modular Threat Intelligence Platform, follow these steps:
-1. Clone the repository:
+1. Navigate into the directory:
    ```bash
-   git clone https://github.com/indibg/TIPv6.git
-   ```
-2. Navigate into the directory:
-   ```bash
-   cd TIPv6
+   cd C:\TIP6
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r C:\TIP6\requirements.txt
    ```
 
 ## Getting Started
@@ -41,9 +37,8 @@ This project is licensed under the MIT License - see the [LICENSE](link-to-licen
 
 ## Contact
 For any inquiries, please contact:
-- **Name:** Your Name
-- **Email:** your-email@example.com
-- **Twitter:** @YourTwitterHandle
+- **Name:** Indibg
+
 
 ---
 
